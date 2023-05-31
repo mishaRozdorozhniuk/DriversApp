@@ -1,0 +1,138 @@
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/appsettings.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Drivers.Api
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Drivers.Api.deps.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Drivers.Api.runtimeconfig.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.AssemblyReference.cache
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfoInputs.cache
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CoreCompileInputs.cache
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.Drivers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/scopedcss/bundle/Drivers.Api.styles.css
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CopyComplete
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/refint/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/Drivers.Api.genruntimeconfig.cache
+/Users/applemisharoz2003gmail.com/Drivers.Api/obj/Debug/net7.0/ref/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/DnsClient.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/SharpCompress.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/Snappier.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/ZstdSharp.dll
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/applemisharoz2003gmail.com/Drivers.Api/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/appsettings.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Drivers.Api
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Drivers.Api.deps.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Drivers.Api.runtimeconfig.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/DnsClient.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/SharpCompress.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Snappier.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/ZstdSharp.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.AssemblyReference.cache
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfoInputs.cache
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CoreCompileInputs.cache
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.Drivers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/scopedcss/bundle/Drivers.Api.styles.css
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CopyComplete
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/refint/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/Drivers.Api.genruntimeconfig.cache
+/Users/applemisharoz2003gmail.com/Desktop/Drivers.Api/obj/Debug/net7.0/ref/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/appsettings.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Drivers.Api
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Drivers.Api.deps.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Drivers.Api.runtimeconfig.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/DnsClient.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/SharpCompress.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Snappier.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/ZstdSharp.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.AssemblyReference.cache
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfoInputs.cache
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.AssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CoreCompileInputs.cache
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.Drivers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Drivers.Api.props
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/scopedcss/bundle/Drivers.Api.styles.css
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.csproj.CopyComplete
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/refint/Drivers.Api.dll
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.pdb
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/Drivers.Api.genruntimeconfig.cache
+/Users/applemisharoz2003gmail.com/Desktop/C# Angular/Drivers.Api/obj/Debug/net7.0/ref/Drivers.Api.dll
